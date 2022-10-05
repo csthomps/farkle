@@ -1,0 +1,9 @@
+Farkle game
+
+Popular dice game
+
+Techincally playable, but no good UI implementation
+
+Intent was to try to train an AI to learn to play a completely random game with Q learning algorithm
+After multiple days of training, was unsuccessful
+
